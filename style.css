@@ -1,0 +1,47 @@
+/* banner part */
+.banner {
+    background-image: url('images/banner/banner3.png');
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 2421px;
+}
+
+.heading-section {
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    right: 230px;
+    top: 216px;
+    bottom: 2785px;
+}
+
+.heading {
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+
+}
+
+.heading-description {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+.button {
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 95, 172);
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
